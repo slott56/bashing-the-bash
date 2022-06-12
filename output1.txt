@@ -1,0 +1,10 @@
+zero
+
+line 1
+
+line 2
+
+third line
+
+final line
+
